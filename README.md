@@ -1,6 +1,6 @@
 ﻿# hata-yonetimi
 
-Bu çalışma PatikaAcademy.dev "Hata Yönetimi" dersi için yapılmıştır.
+Bu çalışma PatikaAcademy.dev "Try Catch Finally ve Mantıksal Hatalar" dersi için yapılmıştır.
 
 ## LICENSE
 
